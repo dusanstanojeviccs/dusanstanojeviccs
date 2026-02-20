@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dusanstanojeviccs/dusanstanojeviccs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dusan 👋
 
-Here are some ideas to get you started:
+**Founder @ [Traceway](https://tracewayapp.com) · Making software reliability effortless**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've spent 14+ years in the trenches: coding, managing, founding and running a startup. Now I'm channeling all of that into developer tools that make observability less painful.
+
+I write about Go, reliability, distributed systems, and whatever else I'm nerding out about.
+
+Wanna get in touch? Send me an email: dusan@tracewayapp.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dusanstanojeviccs)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@dusan.stanojevic.cs)
+[![Traceway](https://img.shields.io/badge/Traceway-4F46E5?style=flat&logoColor=white)](https://tracewayapp.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/narrow-adventure)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dusan@tracewayapp.com)
+
+</div>
+
+---
+
+### What I'm working on
+
+🔭 **[Traceway](https://tracewayapp.com)** Software reliability tools that surface what matters before your users notice.
+
+✍️ **[Blog](https://medium.com/@dusan.stanojevic.cs)** Writing about Go, system design, and the lessons I keep relearning.
+
+### Recent writing
+
+- [Stop Recovering Panics in Go: What Java Developers Get Wrong About Go Error Handling](https://medium.com/@dusan.stanojevic.cs/b7296550b90b)
+- [Which of your endpoints are on fire?](https://medium.com/@dusan.stanojevic.cs/b1cb8e16dcf4)
+- [Tracing Database Interactions in Go: Idiomatic ways of linking atomic transactions with context](https://medium.com/@dusan.stanojevic.cs/01513315f83c)
+
+### Some of the tech I've been enjoying lately
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+### 📚 Currently reading
+
+*Always have a book going. Ask me what's on the stack.*
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dusanstanojeviccs&hide_border=true" height="165" />
+</div>
