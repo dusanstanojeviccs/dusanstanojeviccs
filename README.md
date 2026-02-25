@@ -28,6 +28,7 @@ Wanna get in touch? Send me an email: dusan@tracewayapp.com
 
 ### Recent writing
 
+- [The MySQL-to-Postgres Migration That Saved $480K/Year: A Step-by-Step Guide](https://medium.com/@dusan.stanojevic.cs/the-mysql-to-postgres-migration-that-saved-480k-year-a-step-by-step-guide-4b0fa9f5bdb7)
 - [Stop Recovering Panics in Go: What Java Developers Get Wrong About Go Error Handling](https://medium.com/@dusan.stanojevic.cs/b7296550b90b)
 - [Which of your endpoints are on fire?](https://medium.com/@dusan.stanojevic.cs/b1cb8e16dcf4)
 - [Tracing Database Interactions in Go: Idiomatic ways of linking atomic transactions with context](https://medium.com/@dusan.stanojevic.cs/01513315f83c)
