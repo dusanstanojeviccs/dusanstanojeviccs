@@ -11,7 +11,6 @@ I write about Go, reliability, distributed systems, and whatever else I'm nerdin
 Wanna get in touch? Send me an email: dusan@tracewayapp.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dusanstanojeviccs)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@dusan.stanojevic.cs)
 [![Traceway](https://img.shields.io/badge/Traceway-4F46E5?style=flat&logoColor=white)](https://tracewayapp.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/narrow-adventure)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dusan@tracewayapp.com)
@@ -28,10 +27,11 @@ Wanna get in touch? Send me an email: dusan@tracewayapp.com
 
 ### Recent writing
 
+- [Deep dive into the JS/TS toolchain: How source maps fall short where it matters most](https://tracewayapp.com/blog/deep-dive-into-the-sourcemaps)
+- [I Ran My Entire Observability Stack on SQLite. You Probably Could Too.](https://tracewayapp.com/blog/sqlite-observability-stack)
+- [Flutter Session Replay: See What the User Did](https://tracewayapp.com/blog/flutter-session-replay)
 - [The MySQL-to-Postgres Migration That Saved $480K/Year: A Step-by-Step Guide](https://medium.com/@dusan.stanojevic.cs/the-mysql-to-postgres-migration-that-saved-480k-year-a-step-by-step-guide-4b0fa9f5bdb7)
 - [Stop Recovering Panics in Go: What Java Developers Get Wrong About Go Error Handling](https://medium.com/@dusan.stanojevic.cs/b7296550b90b)
-- [Which of your endpoints are on fire?](https://medium.com/@dusan.stanojevic.cs/b1cb8e16dcf4)
-- [Tracing Database Interactions in Go: Idiomatic ways of linking atomic transactions with context](https://medium.com/@dusan.stanojevic.cs/01513315f83c)
 
 ### Some of the tech I've been enjoying lately
 
