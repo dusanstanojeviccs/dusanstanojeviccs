@@ -23,7 +23,7 @@ Wanna get in touch? Send me an email: dusan@tracewayapp.com
 
 🔭 **[Traceway](https://tracewayapp.com)** Software reliability tools that surface what matters before your users notice.
 
-✍️ **[Blog](https://medium.com/@dusan.stanojevic.cs)** Writing about Go, system design, and the lessons I keep relearning.
+✍️ **[Blog](https://tracewayapp.com/blog)** Writing about Go, system design, and the lessons I keep relearning.
 
 ### Recent writing
 
